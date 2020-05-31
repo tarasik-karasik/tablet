@@ -1,0 +1,57 @@
+@media screen and (min-width768px){
+
+
+
+
+
+.h1_tarasik{
+
+  font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+
+.div2_img_tarasik{
+  width: 280px;
+height: 280px;
+  background-image:url(../images/tablet/Rectangle29.png)
+}
+
+.hr_tarasik{
+  border: none;
+  border-radius: 2px;
+  background-color: #D2AC47;
+  color: #D2AC47;
+  height: 2px;
+  width: 72px;
+  
+  margin-left: 0;
+    
+}
+
+.p_tarasik{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+letter-spacing: 0.02em;
+
+color: #757575;
+}
+
+.colortext{
+  color: orange;
+}
+.div2_img_tarasik{
+  height: 550px;
+}
+}
